@@ -12,3 +12,19 @@ Além disso, vamos trabalhar com gitglow ao final do curso e VsCode.
 
 Confira tudo o que temos no nosso youtube. é grátis
 
+
+
+----------
+
+
+
+Pessoas participantes:
+
+
+
+Teo
+
+
+
+Felipe
+
