@@ -1,4 +1,4 @@
-\#Curso TMW Git \& Github 2025
+##Curso TMW Git \& Github 2025
 
 
 
@@ -14,7 +14,9 @@ Confira tudo o que temos no nosso youtube. é grátis. segue o link:
 
 [Curso Git 2025](https://youtube.com/@teomewhy)
 
+Além do nosso youtube, se ligue no nosso site e agenda para ficar por dentro de tudo que vai rolar em 2025
 
+[teomewhy.org](https://teomewhy.org/schedule)
 
 ----------
 
